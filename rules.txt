@@ -1,0 +1,21 @@
+
+                                            [[RULES]]
+
+ - The computer will think of a word or phrase; you have to try to guess what it is, one letter at a time. 
+
+ - The computer will draw a number of dashes equivalent to the number of letters in the word. 
+
+ - If you suggest a letter that occurs in the word, the computer will fill in the blanks with that 
+letter in the right place(s). 
+
+ - If the word does not contain the suggested letter, the computer will draw one element of a 
+hangmans gallows and the amount of guesses you have left will decrease by one. 
+
+ - As the game progresses, a segment of the gallows and of a victim is added for every suggested 
+letter not in the word. Completing a character in a noose provides a minimum of 11 wrong answers 
+until the game ends. 
+
+ - If you guess a letter correct, you still have the same number of guesses left as no additional 
+lines are added to the hang man
+
+               ...GOOD LUCK
